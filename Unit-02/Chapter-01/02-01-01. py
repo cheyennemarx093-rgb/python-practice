@@ -1,0 +1,13 @@
+#Create a program that takes in a number, N, and outputs whether it is equal to 8 or 10.
+#The line of input contains a number, N, where 
+#−1000000≤N≤1000000 N may be an integer or a floating-point number.
+#The output will be a boolean value, either True or False.
+int(input('Enter value of N: '))
+if N == 8:
+    print(True)
+    if N > 8:
+             print(False)
+         elif N < 10:
+             print(False)
+     if N == 10:
+         print(True) 
